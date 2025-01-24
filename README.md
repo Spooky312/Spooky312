@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Currently a student at SIT \n
+Currently a student at SIT\
 New to Programming in General
 
 <!--
