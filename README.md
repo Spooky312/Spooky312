@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+Currently a student at SIT
+New to Programming in General
+
 <!--
 **Spooky312/Spooky312** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
