@@ -9,9 +9,9 @@ Currently exploring **Business Analysis, software delivery, cloud infrastructure
 <br />
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=flat&color=0e75b6" alt="GitHub followers" />
-  <img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?affiliations=OWNER%2CCOLLABORATOR&label=Stars&style=flat&color=0e75b6" alt="GitHub stars" />
+  <img src="https://komarev.com/ghpvc/?username=Spoooky312&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/Spoooky312label=Followers&style=flat&color=0e75b6" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/Spoooky312?affiliations=OWNER%2CCOLLABORATOR&label=Stars&style=flat&color=0e75b6" alt="GitHub stars" />
 </p>
 
 <p align="left">
