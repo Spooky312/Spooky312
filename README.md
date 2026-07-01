@@ -15,9 +15,10 @@ Currently exploring **Business Analysis, software delivery, cloud infrastructure
 </p>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Focus-Business%20Analysis-2563EB?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Interest-Cloud%20%26%20DevOps-0F766E?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Building-Practical%20Projects-F59E0B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/iOS%20Development-181717?style=flat-square&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloud%20%26%20CI%2FCD-181717?style=flat-square&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Weather%20%26%20Maps-181717?style=flat-square&logo=icloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Private%20Repos-181717?style=flat-square&logo=github&logoColor=white" />
 </p>
 
 <br />
