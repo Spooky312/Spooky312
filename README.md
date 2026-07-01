@@ -61,9 +61,9 @@ Currently exploring **Business Analysis, software delivery, cloud infrastructure
 
 ### 🌧️ PassingCloudJe
 
-A weather-focused mobile app concept for checking wind direction, wind speed, rain areas, saved locations, and rain notifications.
+An **iOS-only weather app** for checking wind direction, wind speed, rain areas, saved locations, and location-based rain notifications.
 
-`Weather` · `Mobile App` · `Maps` · `Location Services`
+`iOS` · `Weather` · `Maps` · `Location Services`
 
 <br />
 
